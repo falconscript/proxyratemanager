@@ -1,0 +1,31 @@
+{
+  "name": "proxyratemanager",
+  "private": false,
+  "version": "1.0.0",
+  "description": "ES6 JS classes for http/https Proxy Requests and IP rate limiting",
+  "keywords": [
+    "proxy",
+    "proxied request",
+    "proxied",
+    "request",
+    "rate",
+    "limit",
+    "rate limit",
+    "manager",
+    "proxy manager",
+    "ip",
+    "ip address"
+  ],
+  "dependencies": {
+    "childprocessmanager": "^1.0.7",
+    "advancedrequest": "^1.0.13",
+    "ps-node": "^0.1.6",
+    "standardlogger": "^1.0.3",
+    "socks5-http-client": "^1.0.4",
+    "socks5-https-client": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/falconscript/proxyratemanager"
+  }
+}
